@@ -1,2 +1,2 @@
 # engr1200a3
-Starter code for programming assignment3-ENGR1200
+Starter code for programming assignment3-ENGR1200. Please download the file (MyApp.cpp) and implement your application solution in this file. Develop and test your program on the Linux environment. Run cpplint and ensure there are no errors. Upload your solution (MyApp.cpp) as well as readme.pdf here. Please note: for this assignment, even if you use a Github readme file you must still upload a readme.pdf (see assignment description for what goes into readme.pdf). 
